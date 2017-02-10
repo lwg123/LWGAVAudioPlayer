@@ -1,2 +1,3 @@
 # LWGAVAudioPlayer
 一个简单的音乐播放demo
+通常会选择使用AVFoundation.framework中的AVAudioPlayer来实现。AVAudioPlayer可以看成一个播放器，它支持多种音频格式，而且能够进行进度、音量、播放速度等控制。首先简单看一下AVAudioPlayer常用的属性和方法：
